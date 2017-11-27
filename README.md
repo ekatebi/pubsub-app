@@ -4,3 +4,4 @@
 - cd pubsub-app
 - npm install
 - npm start
+- browse to http://localhost:3000
